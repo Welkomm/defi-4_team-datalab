@@ -1,7 +1,9 @@
 # Observatoire des fractures et inégalités ferroviaires en Île-de-France
 
 **Équipe :** Team Datalab - LE HUEROU KERISEL Robin, BIENVENU Samuel, RICOT Jean-Bastien, LAHAYE Emma, LEBRUN Justine, LEBRUN Justine, DELBREIL Elisa
+
 **Mail(s) de contact :** robin.lehuerou-kerisel@sncf.fr, samuel.bienvenu@sncf.fr, jean-bastien.ricot@sncf.fr, emma.lahaye@sncf.fr, justine.lebrun@sncf.fr, elisa.delbreil@sncf.fr
+
 **Défi :** Défi 4 - Les mobilités et les inégalités
 
 ## Notre question
